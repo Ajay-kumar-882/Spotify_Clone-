@@ -30,4 +30,5 @@ Follow these steps to run the project locally:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/your-username/spotify-clone.git
-2. 
+2. spotify UI
+          https://ajay-kumar-882.github.io/Spotify_Clone-/
